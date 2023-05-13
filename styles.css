@@ -1,0 +1,58 @@
+/* Estilos de fuente */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  border: 0;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.fa-github,
+.fa-linkedin {
+    color: #fff;
+    font-size: 1.5em;
+    margin-right: 10px;
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.img-perfil {
+  width: 350px;
+  border-radius: 50%;
+}
+
+.principal1 {
+  float: left;
+  width: 30%;
+  background-color:  #0B3C5D;
+  padding: 20px;
+  color: white;
+}
+
+.principal2 {
+  float: right;
+  width: 70%;
+  background-color: #fff;
+  padding: 40px;
+}
+
+
+.progress-bar {
+  background-color: #4CAF50;
+  color: white;
+  padding: 6px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 3px;
+}
